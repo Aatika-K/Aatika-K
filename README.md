@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,terraform,ansible,vscode,github" />
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare,eks" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,helm,cloudflare" />
 
 </div>
 
