@@ -37,7 +37,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Cloud & DevOps Engineering Stack ⚒️</h2>
+<h2 align="center">⚒️ Tools-Technologies ⚒️</h2>
 <br/>
 <div align="center">
 
