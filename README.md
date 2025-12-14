@@ -42,31 +42,15 @@
 <div align="center">
 
   <!-- Cloud Platforms -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-  <br/>
-
-  <!-- OS, Containers & Orchestration -->
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes" />
   <br/>
 
   <!-- CI/CD & GitOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,argo" />
-  <br/>
-
-  <!-- Networking & Cloud Services -->
-  <img src="https://skillicons.dev/icons?i=nginx" />
-  <br/>
-
-  <!-- Infrastructure & Automation -->
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,argo,nginx,terraform,ansible" />
   <br/>
 
   <!-- Monitoring, Logging & Reliability -->
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" />
-  <br/>
-
-  <!-- Scripting & Runtime -->
-  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash" />
 
 </div>
 
