@@ -69,23 +69,25 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
+
 <div align="center">
   <img width="390"
-       src="https://streak-stats.demolab.com?user=Aatika-K&theme=react&border_radius=10"
-       alt="GitHub streak stats" />
+       src="https://streak-stats.demolab.com/?user=Aatika-K&theme=react&border_radius=10"
+       alt="GitHub Streak Stats" />
 
   <img width="390"
        src="https://github-readme-stats.vercel.app/api?username=Aatika-K&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-       alt="GitHub stats" />
+       alt="GitHub Stats" />
 
   <br/>
 
-  <img width="325" align="center"
+  <img width="325"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatika-K&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
-       alt="Top languages" />
+       alt="Top Languages" />
 </div>
 
 <br/><br/>
+
 
 
 <hr/>
