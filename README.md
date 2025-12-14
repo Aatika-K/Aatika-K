@@ -46,7 +46,7 @@
   <br/>
 
   <!-- CI/CD & GitOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,argo,nginx,terraform,ansible,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,terraform,ansible,vscode,github" />
   <br/>
 
   <!-- Monitoring, Logging & Reliability -->
