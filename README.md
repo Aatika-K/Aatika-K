@@ -50,7 +50,7 @@
   <br/>
 
   <!-- Monitoring, Logging & Reliability -->
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare" />
 
 </div>
 
