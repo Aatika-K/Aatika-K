@@ -41,16 +41,13 @@
 <br/>
 <div align="center">
 
-  <!-- Cloud Platforms -->
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes" />
   <br/>
 
-  <!-- CI/CD & GitOps -->
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,terraform,ansible,vscode,github" />
   <br/>
 
-  <!-- Monitoring, Logging & Reliability -->
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare,guacamole" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare,eks" />
 
 </div>
 
