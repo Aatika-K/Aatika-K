@@ -69,10 +69,9 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-
 <div align="center">
   <img width="390"
-       src="https://streak-stats.demolab.com/?user=Aatika-K&theme=react&border_radius=10"
+       src="https://streak-stats.vercel.app/?user=Aatika-K&theme=react&border_radius=10"
        alt="GitHub Streak Stats" />
 
   <img width="390"
@@ -87,6 +86,7 @@
 </div>
 
 <br/><br/>
+
 
 
 
