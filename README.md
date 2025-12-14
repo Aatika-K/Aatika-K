@@ -41,13 +41,13 @@
 <br/>
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,vscode,vim" />
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,terraform,ansible,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,nginx,terraform,ansible,vscode,github,discord,gmail,instagram" />
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare,anaconda" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,python,bash,cloudflare,anaconda,kali,ubuntu,postman" />
 
 </div>
 
